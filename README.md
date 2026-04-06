@@ -39,7 +39,7 @@ Sends formatted message to Slack via API connection
 
 Deploy this solution directly to Azure:
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fyourgithubuser%2Flogicapp-securescore-slack%2Fmain%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjuanorphanos%2FMDI-Status-Slack%2Fmain%2Fazuredeploy.json)
 
 ## Post-deployment
 
